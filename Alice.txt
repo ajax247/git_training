@@ -2,7 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 Changing a line!
 
-Adding another line!
+Changing another line!
 
 Adding another line! This one in the branch change_alice.
 
+And adding this line just for fun.
